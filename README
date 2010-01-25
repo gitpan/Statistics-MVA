@@ -1,4 +1,4 @@
-Statistics-MVA version 0.0.1
+Statistics-MVA version 0.0.2
 
 This module is a base module for the other modules in the Statistics::MVA namespace (e.g. Statistics::MVA::Bartlett,
 Statistics::MVA::Hotelling etc.). It is not intended for direct use - though it may be used for generating covariance matrices directly.
